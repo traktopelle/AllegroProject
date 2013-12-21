@@ -2,37 +2,37 @@
 <CodeBlocks_layout_file>
 	<ActiveTarget name="Debug" />
 	<File name="Entity.c" open="1" top="0" tabpos="10">
-		<Cursor position="814" topLine="31" />
+		<Cursor position="4222" topLine="153" />
 	</File>
-	<File name="Entity.h" open="0" top="0" tabpos="0">
-		<Cursor position="330" topLine="0" />
+	<File name="Entity.h" open="1" top="0" tabpos="13">
+		<Cursor position="678" topLine="12" />
 	</File>
 	<File name="File.c" open="1" top="0" tabpos="6">
-		<Cursor position="1968" topLine="0" />
+		<Cursor position="2264" topLine="78" />
 	</File>
 	<File name="File.h" open="1" top="0" tabpos="9">
 		<Cursor position="253" topLine="0" />
 	</File>
-	<File name="Game.c" open="1" top="0" tabpos="4">
-		<Cursor position="317" topLine="1" />
+	<File name="Game.c" open="1" top="1" tabpos="4">
+		<Cursor position="1809" topLine="0" />
 	</File>
 	<File name="Game.h" open="1" top="0" tabpos="5">
 		<Cursor position="421" topLine="0" />
 	</File>
 	<File name="Object.c" open="1" top="0" tabpos="2">
-		<Cursor position="591" topLine="111" />
+		<Cursor position="591" topLine="100" />
 	</File>
 	<File name="Object.h" open="1" top="0" tabpos="3">
-		<Cursor position="330" topLine="3" />
+		<Cursor position="375" topLine="5" />
 	</File>
 	<File name="effect.c" open="1" top="0" tabpos="7">
-		<Cursor position="1249" topLine="35" />
+		<Cursor position="1249" topLine="0" />
 	</File>
 	<File name="effect.h" open="1" top="0" tabpos="8">
 		<Cursor position="441" topLine="0" />
 	</File>
-	<File name="main.c" open="1" top="1" tabpos="1">
-		<Cursor position="1194" topLine="40" />
+	<File name="main.c" open="1" top="0" tabpos="1">
+		<Cursor position="4291" topLine="168" />
 	</File>
 	<File name="map.c" open="1" top="0" tabpos="11">
 		<Cursor position="8109" topLine="98" />

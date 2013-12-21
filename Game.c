@@ -14,7 +14,7 @@ Game *game_init()
     g->is_pause = 0;
     g->is_over = 0;
     g->is_credit = 0;
-    g->vie = 10;
+    g->vie = 3;
 
     g->hero_img = malloc(sizeof(BITMAP *) * 4);
     g->hero_img[DIRECTION_GAUCHE] = load_bitmap("img/heros/gauche.bmp", NULL);
