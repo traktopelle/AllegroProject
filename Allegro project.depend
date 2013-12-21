@@ -1,0 +1,70 @@
+# depslib dependency file v1.0
+1303694956 source:c:\documents and settings\utilisateur\bureau\code source\allegro project\main.c
+	<allegro.h>
+	<winalleg.h>
+	<windows.h>
+	<time.h>
+	<sys\timeb.h>
+	"Game.h"
+	"File.h"
+	"Effect.h"
+
+1303690681 source:c:\documents and settings\utilisateur\bureau\code source\allegro project\map.c
+	"map.h"
+
+1303691323 c:\documents and settings\utilisateur\bureau\code source\allegro project\map.h
+	<stdlib.h>
+	<stdio.h>
+
+1303614131 source:c:\documents and settings\utilisateur\bureau\code source\allegro project\object.c
+	"Object.h"
+
+1303615055 c:\documents and settings\utilisateur\bureau\code source\allegro project\object.h
+	<stdlib.h>
+	<stdio.h>
+	<allegro.h>
+
+1303694729 source:c:\documents and settings\utilisateur\bureau\code source\allegro project\game.c
+	"Game.h"
+
+1303694724 c:\documents and settings\utilisateur\bureau\code source\allegro project\game.h
+	<stdlib.h>
+	<stdio.h>
+	<allegro.h>
+	"map.h"
+	"Object.h"
+	"Entity.h"
+
+1303616095 source:c:\documents and settings\utilisateur\bureau\code source\allegro project\entity.c
+	"Entity.h"
+
+1303616102 c:\documents and settings\utilisateur\bureau\code source\allegro project\entity.h
+	<stdlib.h>
+	<stdio.h>
+	<allegro.h>
+	"map.h"
+	"Game.h"
+	"Object.h"
+
+1303601906 c:\documents and settings\utilisateur\bureau\code source\allegro project\effect.h
+	<stdlib.h>
+	<stdio.h>
+	<allegro.h>
+	"Entity.h"
+
+1303694541 source:c:\documents and settings\utilisateur\bureau\code source\allegro project\effect.c
+	"effect.H"
+
+1303691551 source:c:\documents and settings\utilisateur\bureau\code source\allegro project\file.c
+	"File.h"
+
+1303646592 c:\documents and settings\utilisateur\bureau\code source\allegro project\file.h
+	<stdlib.h>
+	<stdio.h>
+	<allegro.h>
+	<winalleg.h>
+	<windows.h>
+	"Object.h"
+	"Game.h"
+	"Entity.h"
+
